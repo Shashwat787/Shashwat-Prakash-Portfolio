@@ -330,7 +330,7 @@ export const education = [
     id: 3,
     img: "https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/stewart%20(1).jpg?alt=media&token=6c6d801c-0919-4db5-b8f7-9a3f245fd889",
     school: "Stewart School, Bhubaneswar",
-    date: "Apr 2008 - Mar 2013",
+    date: "Apr 2006 - Mar 2013",
     grade: "NA",
     desc: "I started my elementary school education at Stewart School, Bhubaneswar, where I studied till 4th Grade.",
   },
