@@ -3,9 +3,9 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](https://rishavchanda.netlify.app)
 ## Some Images:
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
+<img width="450px;" src=""/>
 <img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(33).png?alt=media&token=5c167ff0-74b0-42e4-8bde-9e241bdf36f3"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
+<img width="450px;" src=""/>
 <img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(34).png?alt=media&token=4bade004-5d74-47d8-9faf-b644980ae0ae"/>
 <img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(35).png?alt=media&token=590eddaa-9127-4aa5-8f56-7ff5fdd517fb"/>
 <img width="450px;" src="https://firebasestorage.googleapis.com/v0/b/images-37c36.appspot.com/o/Screenshot%20(36).png?alt=media&token=a5c63265-207d-4955-bcc2-b398c07a9959"/>
