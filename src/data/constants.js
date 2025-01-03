@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and resourceful individual, always looking for new challenges. My passion for learning drives my commitment to producing quality work. With a positive attitude, I am eager to contribute and make a difference.",
   github: "https://github.com/Shashwat787",
   resume:
-    "https://drive.google.com/file/d/17TfB5Ljw3Srxfdk_0he72WV-K37EYrt8/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1KZuEfO10gIHTeRInk0_M-qSSPOVbqJHB/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/shashwatprakash18",
   twitter: "https://x.com/notShashwat_18?t=Q8yzEsaRJeG7O10MZK1rDw&s=08",
   discord: "https://discord.com/channels/@me",
